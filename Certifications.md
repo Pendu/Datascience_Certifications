@@ -5,6 +5,6 @@
 <img src= "Structuring_MachineLearning_Projects.jpg" > 
 <img src= "Convolutional_NeuralNetworks.jpg" > 
 <img src= "Sequence_Models.jpg" > 
-<img src= "Interactive_Python_Dashboards_with_PlotlyandDash.jpg" > 
+<img src="Interactive_Python_Dashboards_with_plotlyandDash.jpg" > 
 
 
