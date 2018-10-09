@@ -1,4 +1,5 @@
 # Online_Certifications
  
-	![Test Image 1](1.jpg)
+	![image-center]({{ site.url }}{{ site.baseurl }}/1.jpg){: .align-center}
+	![test](1.jpg)
  
