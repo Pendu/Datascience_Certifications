@@ -1,4 +1,4 @@
 # Online_Certifications
  
-	![Test Image 1](https://github.com/AbhijeetPendyala/Online_Certifications/1.jpg)
+	![image-center]({{ site.url }}{{ site.baseurl }}/1.jpg){: .align-center}
  
